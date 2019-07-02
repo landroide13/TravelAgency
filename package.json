@@ -1,0 +1,24 @@
+{
+  "name": "TravellAgent2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landroide13/TravelAgency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://landroide13.github.io/travelage",
+  "bugs": {
+    "url": "https://github.com/landroide13/TravelAgency/issues"
+  },
+  "homepage": "https://github.com/landroide13/TravelAgency#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
